@@ -9,7 +9,7 @@
 ## 📋 目录
 
 1. [国内推荐的 ChatGPT 镜像网站](#国内推荐的-chatgpt-镜像网站)
-2. [什么是 ChatGPT 中文版？](#什么是-chatgpt-中文版)
+2. [为什么选择 ChatGPT 中文版？](#为什么选择-chatgpt-中文版)
 3. [ChatGPT 官网与中文版的主要差异](#chatgpt-官网与-chatgpt中文版的主要差异)
 4. [如何快速使用 ChatGPT 中文版](#如何快速使用-chatgpt-中文版)
 5. [ChatGPT 常见问题解答（FAQ）](#chatgpt-常见问题解答（faq）)
@@ -33,7 +33,7 @@
 5. **蓝鲸AI ([lanjing.ai](https://lanjing.ai/))**  
    **免费ChatGPT**，提供免费的ChatGPT服务，支持GPT-4、4o，为用户提供多样化体验。
 
-## 什么是 ChatGPT 中文版？
+## 为什么选择 ChatGPT 中文版？
 
 **ChatGPT 中文版**是由 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅和精准的对话体验，特别适合国内用户。
 
